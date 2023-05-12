@@ -1,0 +1,7 @@
+name: CastAPI
+version: '${version}'
+main: com.cupelt.castapi.CastAPI
+api-version: 1.19
+authors: [ Cupelt ]
+description: This is an api that casts skills in Minecraft.
+website: https://github.com/MinecraftCreativeCoders/CastAPI
